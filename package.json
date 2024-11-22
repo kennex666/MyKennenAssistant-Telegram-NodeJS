@@ -1,0 +1,15 @@
+{
+  "name": "com.obxstd.kennenassistant",
+  "version": "2.0.0",
+  "description": "A bot help Kennex in his life. Make something works and diffent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kennex666",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0",
+    "openai": "^4.11.0"
+  }
+}

@@ -1,0 +1,27 @@
+start - Bắt đầu bot
+setlimit - Sửa giới hạn nhớ hội thoại (tạm thời): VD setlimit 01
+load - Show các đoạn chat mà Kennen nhớ
+test - Hiện thông báo hoạt động
+version - Hiện thông tin phiên bản Kennen
+clear - Xoá kí ức của Kennen
+image256 - Tạo hình ảnh dựa trên mô tả 256x256: VD imageX vẽ sth
+image512 - Tạo hình ảnh dựa trên mô tả 512x512: VD imageX vẽ sth
+image1024 - Tạo hình ảnh dựa trên mô tả 1024x1024: VD imageX vẽ sth
+session - Kiểm tra phiên làm việc
+calendar - on/off: Cấp quyền truy cập lịch học
+quickresponse - on/off: on để trả lời nhanh
+settings - Xem cài đặt của bot
+setmodel - Set model cho gpt (0 - 3.5, 1 - 4.0)
+guiwebhtml - tạo GUI cho web
+imagevision - FileID;System;UserPrompt
+jsonsettings - Load JSON Settings
+allmodel - All models supported
+repeat - Repeat bot response
+getrecentlycode - Get recently file code by GPT
+deletereminder - Clear all event in system
+prompt - Set prompt (0 - default, 1 - html, 2 - rn)
+configm - (0 - d, 1 - c) temperature, max_tokens, top_p, frequency_penalty, presence_penalty
+export - Export mode
+codern - Code React Native
+codeweb - Code Web html
+d - Default mode
