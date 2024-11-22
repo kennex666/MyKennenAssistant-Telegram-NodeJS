@@ -23,6 +23,7 @@ Note: This is a personal project primarily for internal purposes. I will not be 
 * Node.js (version 16 higher)
 * Basic programming knowledge
 * Telegram Bot API library
+* Open AI key
 
 ## Installation Instructions
 
